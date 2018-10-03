@@ -11,3 +11,5 @@ Mostly referenced from: https://devhints.io/go
 | multithreaded | concurrency (WIP) |
 | struct | struct and receiver |
 | variables | variable stuff |
+
+Build and run a project: `./run.sh <dir name>`
