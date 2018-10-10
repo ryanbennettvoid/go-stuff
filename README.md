@@ -8,7 +8,7 @@ Mostly referenced from: https://devhints.io/go
 | funcs | function stuff |
 | hello | hello world + build info |
 | lists | arrays/slices |
-| multithreaded | concurrency (WIP) |
+| goroutines | concurrency with goroutines |
 | struct | struct and receiver |
 | variables | variable stuff |
 
